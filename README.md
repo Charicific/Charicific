@@ -193,7 +193,7 @@ A Java-based tournament management game with player registration, randomized bra
 
 ---
 
-## 💻 Metrics · Terminal View
+## 💻 Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Charicific/Charicific/metrics/github-metrics.svg" alt="GitHub Metrics — Terminal View" />
