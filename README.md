@@ -169,14 +169,6 @@ A Java-based tournament management game with player registration, randomized bra
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charicific&theme=tokyonight&no-frame=true&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
