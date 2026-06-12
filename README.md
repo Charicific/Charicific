@@ -160,7 +160,7 @@ A Java-based tournament management game with player registration, randomized bra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charicific&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sumit's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charicific&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Sumit's GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=Charicific&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
