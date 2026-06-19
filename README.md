@@ -22,19 +22,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/Charicific/Charicific/output/github-contribution-grid-snake-dark.svg" width="450" height="0" alt="" />
 
-- 🎓 **CS Student** @ Galgotias University, Greater Noida
-- 💼 Focused on **Backend Engineering** & System Design
-- 🔁 Grinding **DSA** + shipping **Full-Stack** projects
-- 🌱 Deep-diving into **Spring Boot** & REST APIs
-- 🏠 From Bina, Sagar, Madhya Pradesh
-- ⚡ I write `//TODO: fix later` — and then actually fix it
+- **CS Student** @ Galgotias University, Greater Noida
+- Focused on **Backend Engineering** & System Design
+- Grinding **DSA** + shipping **Full-Stack** projects
+- Deep-diving into **Spring Boot** & REST APIs
+- From Bina, Sagar, Madhya Pradesh
+- I write `//TODO: fix later` — and then actually fix it
 
 </td>
 <td width="50%" valign="top">
@@ -62,7 +62,7 @@ public class Sumit extends Developer {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -106,13 +106,13 @@ public class Sumit extends Developer {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ FemFort
+### FemFort
 A women-centric safety platform helping users assess area safety, discover nearby safe zones, and make informed travel decisions through location-based insights and community-driven indicators.
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -125,7 +125,7 @@ A women-centric safety platform helping users assess area safety, discover nearb
 </td>
 <td width="50%" valign="top">
 
-### 💰 FinSync
+### FinSync
 A personal finance management application for tracking expenses, managing budgets, and monitoring spending patterns through a clean, backend-powered REST interface.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -140,7 +140,7 @@ A personal finance management application for tracking expenses, managing budget
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 ZEROed In
+### ZEROed In
 A Java-based tournament management game with player registration, randomized bracket pairings, elimination rounds, score tracking, and leaderboard management via an interactive desktop UI.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -151,13 +151,26 @@ A Java-based tournament management game with player registration, randomized bra
 [**View Repository →**](https://github.com/Charicific/ZEROedIn_Game)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+### Memoize TG Bot
+A Telegram-native LeetCode companion that helps users stay consistent with DSA practice through daily coding challenges, AI-powered coaching, spaced repetition (SM-2), coding battles, streak tracking, and leaderboards.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[**View Repository →**](https://github.com/Charicific/memoize-tgbot)
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charicific&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Sumit's GitHub Stats" />
@@ -170,7 +183,7 @@ A Java-based tournament management game with player registration, randomized bra
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Charicific&bg_color=1a1b27&color=bb9af7&line=7dcfff&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" />
@@ -178,7 +191,7 @@ A Java-based tournament management game with player registration, randomized bra
 
 ---
 
-## 🐍 Contribution Trail
+## Contribution Trail
 
 <p align="center">
   <picture>
@@ -193,7 +206,7 @@ A Java-based tournament management game with player registration, randomized bra
 
 ---
 
-## 💻 Metrics
+## Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Charicific/Charicific/metrics/github-metrics.svg" alt="GitHub Metrics — Terminal View" />
@@ -201,7 +214,7 @@ A Java-based tournament management game with player registration, randomized bra
 
 ---
 
-## 📬 Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumitsingh2206">
