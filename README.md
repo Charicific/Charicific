@@ -27,6 +27,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/Charicific/Charicific/output/github-contribution-grid-snake-dark.svg" width="450" height="0" alt="" />
 
 - **CS Student** @ Galgotias University, Greater Noida
 - Focused on **Backend Engineering** & System Design
