@@ -58,8 +58,8 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">charicific@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#############       ] 62.46%
-<b>PYTHON      </b> [########            ] 36.09%
+<div class="stdin"><span class="ps1-path">charicific@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVA        </b> [#############       ] 62.43%
+<b>PYTHON      </b> [########            ] 36.12%
 <b>JAVASCRIPT  </b> [#                   ] 0.71 %
 <b>HTML        </b> [#                   ] 0.35 %
 <b>CSS         </b> [#                   ] 0.27 %
